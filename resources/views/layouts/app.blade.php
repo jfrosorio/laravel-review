@@ -11,6 +11,7 @@
             <ul>
                 <li><a href="{{ route('homepage') }}">Homepage</a></li>
                 <li><a href="{{ route('about-us') }}">About us</a></li>
+                <li><a href="{{ route('about-us') }}">Products</a></li>
                 <li><a href="{{ route('contacts') }}">Contacts</a></li>
             </ul>
         </nav>
