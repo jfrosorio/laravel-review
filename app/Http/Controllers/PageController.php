@@ -13,7 +13,7 @@ class PageController extends Controller
 
     public function aboutUs()
     {
-        $pageTitle = 'About us';
+        $pageTitle = 'Sobre nós';
 
         return view('about-us', compact('pageTitle'));
     }
